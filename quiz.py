@@ -31,5 +31,17 @@ if answer == "Automated Teller Machine":
     print("Correct!")
 else:
     print("Incorrect!")
+    
+answer = input("What does GPU stand for? ")
+if answer == "Graphic Processing Unit":
+    print("Correct!")
+else:
+    print("Incorrect!")
+    
+answer = input("What does BIOS stand for? ")
+if answer == "Basic Input Output System":
+    print("Correct!")
+else:
+    print("Incorrect!")
 
 
